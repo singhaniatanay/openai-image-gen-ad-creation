@@ -78,6 +78,7 @@
     - **At Rest (Credentials):** AES-256 encryption for password hashes & sensitive data.
 - **Permissions:** Flat user model for v1; all users have same access level.
 
+
 ### 8. Development Phases & Milestones
 
 1. **Week 1:** Project setup, user authentication, brand asset ingestion UI
